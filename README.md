@@ -1,6 +1,6 @@
-## Monk Puzzle
+## Sliding Puzzle
 
-![monks-gif](https://cloud.githubusercontent.com/assets/20054414/22507454/f50e90b0-e885-11e6-9ef4-1ee9067d4d9a.gif)
+![sliding-puzzle](https://cloud.githubusercontent.com/assets/20054414/22928028/a84f0578-f2b4-11e6-8b62-db9c7e7a65d0.gif)
 
 ### Getting Started
 
@@ -8,11 +8,11 @@ Make sure you have Node and NPM installed.
 
 1. Clone the repository
   ```
-  git clone git@github.com:adrianabm/monk-puzzle.git
+  git clone git@github.com:adrianabm/sliding-puzzle.git
   ```
 2. Enter the project folder
   ```
-  cd monk-puzzle
+  cd sliding-puzzle
   ```
 3. Install all dependencies 
   ```
