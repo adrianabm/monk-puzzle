@@ -1,5 +1,5 @@
 body {
-  background: #1a1a1a;
+  background: #6E7A94;
   color: white;
   font-family: 'Helverica', 'Arial', sans-serif;
   margin: 50px 0 0 0;
@@ -7,7 +7,7 @@ body {
 }
 
 .btn {
-  background: #1a1a1a;
+  background: #6E7A94;
   border: 1px solid white;
   color: white;
   font-size: 15px;
@@ -23,7 +23,7 @@ body {
 
 .btn:hover {
   background: white;
-  color: #1a1a1a;
+  color: #6E7A94;
 }
 
 .grid {
@@ -33,7 +33,7 @@ body {
 }
 
 .grid-bg {
-  background-image: url('../src/images/monks-complete.jpg');
+  background-image: url('../src/images/landscape.jpg');
   background-size: 450px 450px;
   background-repeat: no-repeat;
   height: 450px;

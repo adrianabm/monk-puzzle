@@ -3,7 +3,7 @@ import { MOVE_PIECE } from '../actions/move-piece'
 const defaultState = [
   {
     pieceId: 1,
-    image: 'src/images/monk-01.jpg',
+    image: 'src/images/land-01.jpg',
     initialpositionX: 0,
     initialpositionY: 0,
     positionX: 0,
@@ -12,7 +12,7 @@ const defaultState = [
   },
   {
     pieceId: 2,
-    image: 'src/images/monk-02.jpg',
+    image: 'src/images/land-02.jpg',
     initialpositionX: 150,
     initialpositionY: 0,
     positionX: 150,
@@ -21,7 +21,7 @@ const defaultState = [
   },
   {
     pieceId: 3,
-    image: 'src/images/monk-03.jpg',
+    image: 'src/images/land-03.jpg',
     initialpositionX: 300,
     initialpositionY: 0,
     positionX: 300,
@@ -30,7 +30,7 @@ const defaultState = [
   },
   {
     pieceId: 4,
-    image: 'src/images/monk-04.jpg',
+    image: 'src/images/land-04.jpg',
     initialpositionX: 0,
     initialpositionY: 150,
     positionX: 0,
@@ -39,7 +39,7 @@ const defaultState = [
   },
   {
     pieceId: 5,
-    image: 'src/images/monk-05.jpg',
+    image: 'src/images/land-05.jpg',
     initialpositionX: 150,
     initialpositionY: 150,
     positionX: 150,
@@ -48,7 +48,7 @@ const defaultState = [
   },
   {
     pieceId: 6,
-    image: 'src/images/monk-06.jpg',
+    image: 'src/images/land-06.jpg',
     initialpositionX: 300,
     initialpositionY: 150,
     positionX: 300,
@@ -57,7 +57,7 @@ const defaultState = [
   },
   {
     pieceId: 7,
-    image: 'src/images/monk-07.jpg',
+    image: 'src/images/land-07.jpg',
     initialpositionX: 0,
     initialpositionY: 300,
     positionX: 0,
@@ -66,7 +66,7 @@ const defaultState = [
   },
   {
     pieceId: 8,
-    image: 'src/images/monk-08.jpg',
+    image: 'src/images/land-08.jpg',
     initialpositionX: 150,
     initialpositionY: 300,
     positionX: 150,

@@ -82,7 +82,7 @@ class Pieces extends Component {
     // if the game is finished, it will display the full image.
     var gameFinished = this.isFinished()
     var finishedImage = (gameFinished ?
-      <div className="grid"><img src="src/images/monks-complete.jpg" /></div> : ''
+      <div className="grid"><img src="src/images/landscape.jpg" /></div> : ''
     )
     var finishedClass = (gameFinished ? 'none' : 'grid')
 
